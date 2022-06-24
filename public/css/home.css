@@ -1,0 +1,13 @@
+body{
+    background-image: linear-gradient(135deg,
+    #aa8363,#dcf72d,#2f803a,#db904a,#96816a7d,#fb5503,#ec548e);
+    background-size: 500%;
+  }
+
+.home main p{
+    color: rgb(7, 6, 6);
+    text-align: center;
+    margin: 300px 0;
+    font-family:var(--fuentePrincipal);
+    font-size: 20px;
+}
